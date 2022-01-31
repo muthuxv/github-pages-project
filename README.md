@@ -1,30 +1,54 @@
-# GitHub pages project
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Contexte:
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Vous êtes un lead dev qui met en place un repository pour son équipe, toutes les bonnes pratiques doivent être mise en place pour garantir une bonne gestion de projet.
+Here you can describe the project, why you made it and **for who you made it**, but mostly don't forget to add a screenshot like the image above AND a link to the demo like this : https://NicolasBrondin.github.io/basic-readme-template/
 
-Ce qu'il faut faire:
-- [ ] Forker le projet disponible à [cette adresse](https://github.com/quentinhermiteau/github-pages-project)
-- [ ] Mettre en place toutes les bonnes pratiques autour du git flow
-- [ ] Rédiger un Readme (nom du projet, commande pour setup le projet, etc)
-- [ ] Mettre en place des templates pour les issues et les pull requests
-- [ ] Mettre en place une gestion de projet (+ labels)
-- [ ] Mettre en place une github pages avec un thème
-- [ ] Le projet devra contenir au moins 1 branche feature et 1 branche fix
-- [ ] Les commits doivent être correctement rédigés (ET SIGNÉS)
-- [ ] Tout travail doit être répertorié dans les issues et suivi avec la gestion de projet de GitHub
+### Built With
 
-Règles pour le projet:
-- Projet en individuel
-- Noté sur 7
+* 🖊️ Markdown
+* 🐙 Github
+* 💻 VS Code
 
-Notation:
-| à faire | point |
-| --- | --- |
-| Gitflow | 1 |
-| Readme | 1,5 |
-| templates | 1,5 |
-| Gestion de projet | 1 |
-| commits + signés | 1 |
-| Github pages | 1 |
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* Git
+```sh
+sudo apt-get install git
+```
+
+### Installation
+ 
+1. Clone the repo
+```sh
+git clone https://github.com/muthuxv/github-pages-project
+```
+2. Open VS Code
+3. Install Markdown Preview Enhancement plugin
+3. Open the README.md file and execute the following command
+```sh
+ctrl+k v
+```
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
+<!-- CONTACT -->
+## Contact
+
+Muthulan - m@gmail.com
+
+Project Link: [https://github.com/muthuxv/github-pages-project](https://github.com/muthuxv/github-pages-project)
